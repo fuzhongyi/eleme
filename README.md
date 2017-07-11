@@ -30,4 +30,4 @@ node prod.server
 
 ### 在线演示 
 ***
-<a href="https://lunamean.github.io/eleme" target="_blank">点击查看</a>（请使用chrome开发者手机模式预览）
+[点击查看](https://lunamean.github.io/eleme)（请使用chrome开发者手机模式预览）
