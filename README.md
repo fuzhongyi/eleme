@@ -1,4 +1,4 @@
->  基于vue2构建的高仿饿了么app商品详情
+>  基于vue2构建的高仿饿了么app商家详情
 
 ### 项目技术架构
 ***
@@ -30,4 +30,4 @@ node prod.server
 
 ### 在线演示 
 ***
-<a href="https://lunamean.github.io/eleme" target=_blank>点击查看</a>（请使用chrome开发者手机模式预览）
+<a href="https://lunamean.github.io/eleme" target="_blank">点击查看</a>（请使用chrome开发者手机模式预览）
