@@ -30,4 +30,4 @@ node prod.server
 
 ### 在线演示 
 ***
-[点击查看](https://fuzhongyi.github.io/eleme)（请使用chrome开发者手机模式预览）
+[点击预览](https://fuzhongyi.github.io/eleme)（请使用chrome开发者手机模式预览）
